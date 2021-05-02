@@ -1,0 +1,9 @@
+Open 3 python terminals.
+
+T1> python -m Pyro4.naming
+T2> python server.py
+T3> python client.py
+
+
+Credits:
+https://github.com/ShubhamRathi/Remote-Method-Invocation
